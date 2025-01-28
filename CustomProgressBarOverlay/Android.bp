@@ -4,7 +4,7 @@
 //
 
 runtime_resource_overlay {
-    name: "CustomProgressBar",
+    name: "CustomProgressBarOverlay",
     theme: "CustomProgressBar",
     product_specific: true,
 }
