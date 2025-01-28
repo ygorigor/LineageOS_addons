@@ -1,0 +1,10 @@
+android_app_import {
+	name: "SystemUIClocks-Inflate",
+	owner: "google",
+	apk: "SystemUIClocks-Inflate.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	system_ext_specific: true,
+}

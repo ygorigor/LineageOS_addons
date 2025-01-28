@@ -1,0 +1,10 @@
+android_app_import {
+	name: "SystemUIClocks-Metro",
+	owner: "google",
+	apk: "SystemUIClocks-Metro.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	system_ext_specific: true,
+}

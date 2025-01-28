@@ -1,0 +1,10 @@
+android_app_import {
+	name: "SystemUIClocks-Flex",
+	owner: "google",
+	apk: "SystemUIClocks-Flex.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	system_ext_specific: true,
+}
