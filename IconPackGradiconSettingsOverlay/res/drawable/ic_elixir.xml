@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:gravity="center" android:drawable="@drawable/icon_bg" />
+    <item>
+        <vector android:tint="@color/icon_tint" android:height="24.0dip" android:width="24.0dip" android:tintMode="multiply" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <group android:pivotX="12.0" android:pivotY="12.0" android:scaleX="@dimen/icon_scale" android:scaleY="@dimen/icon_scale">
+                <group android:pivotX="12.0" android:pivotY="18.167" android:scaleY="1.0" android:rotation="-0.0">
+                    <path android:fillColor="@drawable/ic_elixir_2" android:pathData="M9.50,18.29L9.50,19.79C9.50,22.79,14.50,22.79,14.50,19.79L14.50,18.29L19.50,18.29C22.25,18.29,22.25,14.29,19.50,14.29L4.50,14.29C1.75,14.29,1.75,18.29,4.50,18.29L9.50,18.29zM19.50,13.50L4.50,13.50L4.00,5.50C3.83,3.50,5.00,2.00,7.00,2.00L17.00,2.00C19.00,2.00,20.17,3.50,20.00,5.50L19.50,13.50zM13.00,4.00L13.00,2.00L11.00,2.00L11.00,4.00C11.00,5.25,13.00,5.25,13.00,4.00zM9.00,7.00L9.00,2.00L7.00,2.00L7.00,7.00C7.00,8.25,9.00,8.25,9.00,7.00z" android:strokeColor="@drawable/ic_elixir_1" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="nonZero" />
+                </group>
+            </group>
+        </vector>
+    </item>
+</layer-list>

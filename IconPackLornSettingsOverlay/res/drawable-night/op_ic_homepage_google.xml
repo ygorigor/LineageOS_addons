@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:drawable="@drawable/icon_bg" />
+    <item>
+        <vector android:tint="@color/icon_tint" android:height="24.0dip" android:width="24.0dip" android:tintMode="multiply" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <group android:pivotX="12.0" android:pivotY="12.0" android:scaleX="@dimen/icon_scale" android:scaleY="@dimen/icon_scale">
+                <path android:fillColor="#00000000" android:pathData="M14.04,12.12L20.01,12.23A8.02 8.01 -0.00 1 1 17.10,5.82" android:strokeColor="@color/icon_tint" android:strokeWidth="2.22" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="nonZero" />
+            </group>
+        </vector>
+    </item>
+</layer-list>

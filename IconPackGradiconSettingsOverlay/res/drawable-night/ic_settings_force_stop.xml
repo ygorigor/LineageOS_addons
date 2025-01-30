@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="?android:colorControlNormal" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:pivotX="12.0" android:pivotY="12.0" android:scaleY="1.0" android:rotation="-0.0">
+        <path android:fillColor="@drawable/ic_settings_force_stop_2" android:pathData="M7.50,2.00L16.50,2.00A5.50 5.50 0 0 1 22.00,7.50L22.00,16.50A5.50 5.50 0 0 1 16.50,22.00L7.50,22.00A5.50 5.50 0 0 1 2.00,16.50L2.00,7.50A5.50 5.50 0 0 1 7.50,2.00zM12.00,14.38C11.31,14.38,10.75,14.93,10.75,15.63C10.75,16.32,11.31,16.88,12.00,16.88C12.69,16.88,13.25,16.32,13.25,15.63C13.25,14.93,12.69,14.38,12.00,14.38zM11.00,8.13L11.00,12.13A1.00 1.00 0 0 0 12.00,13.13L12.00,13.13A1.00 1.00 0 0 0 13.00,12.13L13.00,8.13A1.00 1.00 0 0 0 12.00,7.13L12.00,7.13A1.00 1.00 0 0 0 11.00,8.13z" android:strokeColor="@drawable/ic_settings_force_stop_1" android:strokeLineCap="square" android:strokeLineJoin="miter" android:fillType="nonZero" />
+    </group>
+</vector>

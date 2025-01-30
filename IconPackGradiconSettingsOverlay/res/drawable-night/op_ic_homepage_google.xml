@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:gravity="center" android:drawable="@drawable/icon_bg" />
+    <item>
+        <vector android:tint="@color/icon_tint" android:height="24.0dip" android:width="24.0dip" android:tintMode="multiply" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <group android:pivotX="12.0" android:pivotY="12.0" android:scaleX="@dimen/icon_scale" android:scaleY="@dimen/icon_scale">
+                <group android:pivotX="12.0" android:pivotY="12.0" android:scaleY="1.0" android:rotation="-0.0">
+                    <path android:fillColor="@drawable/op_ic_homepage_google_2" android:pathData="M12.38,14.20L17.16,14.20A5.38 5.38 -0.00 1 1 15.38,7.43L18.37,4.33A9.98 9.96 -0.00 1 0 21.79,10.10L12.38,10.10L12.38,14.20z" android:strokeColor="@drawable/op_ic_homepage_google_1" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="nonZero" />
+                </group>
+            </group>
+        </vector>
+    </item>
+</layer-list>

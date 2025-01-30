@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:gravity="center" android:drawable="@drawable/icon_bg" />
+    <item>
+        <vector android:tint="@color/icon_tint" android:height="24.0dip" android:width="24.0dip" android:tintMode="multiply" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <group android:pivotX="12.0" android:pivotY="12.0" android:scaleX="@dimen/icon_scale" android:scaleY="@dimen/icon_scale">
+                <group android:pivotX="12.0" android:pivotY="6.75" android:scaleY="1.0" android:rotation="-0.0">
+                    <path android:fillColor="@drawable/ic_settings_accounts_home_2" android:pathData="M12.00,2.00C14.62,2.00,16.75,4.13,16.75,6.75C16.75,9.37,14.62,11.50,12.00,11.50C9.38,11.50,7.25,9.37,7.25,6.75C7.25,4.13,9.38,2.00,12.00,2.00zM12.00,12.75C8.13,12.75,5.00,14.82,5.00,17.38C5.00,19.93,8.13,22.00,12.00,22.00C15.87,22.00,19.00,19.93,19.00,17.38C19.00,14.82,15.87,12.75,12.00,12.75z" android:strokeColor="@drawable/ic_settings_accounts_home_1" android:strokeLineCap="square" android:strokeLineJoin="miter" android:fillType="nonZero" />
+                </group>
+            </group>
+        </vector>
+    </item>
+</layer-list>

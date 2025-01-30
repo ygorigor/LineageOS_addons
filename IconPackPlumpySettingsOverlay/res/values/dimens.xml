@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_tile_foreground_image_inset">-1.0dip</dimen>
+    <dimen name="dashboard_tile_foreground_image_size">20.0dip</dimen>
+    <dimen name="dashboard_tile_image_size">38.0dip</dimen>
+    <item type="dimen" name="icon_scale">1.0</item>
+    <dimen name="bg_inset">0.0dip</dimen>
+    <dimen name="bg_inset2">0.0dip</dimen>
+    <dimen name="bg_roundness">48.0dip</dimen>
+    <dimen name="outline_roundness">48.0dip</dimen>
+</resources>

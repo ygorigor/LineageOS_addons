@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:gravity="center" android:drawable="@drawable/icon_bg" />
+    <item>
+        <vector android:tint="@color/icon_tint" android:height="24.0dip" android:width="24.0dip" android:tintMode="multiply" android:viewportWidth="24.0" android:viewportHeight="24.0">
+            <group android:pivotX="12.0" android:pivotY="12.0" android:scaleX="@dimen/icon_scale" android:scaleY="@dimen/icon_scale">
+                <group android:pivotX="5.117" android:pivotY="12.0" android:scaleY="1.0" android:rotation="-0.0">
+                    <path android:fillColor="@drawable/ic_settings_emergency_op_2" android:pathData="M5.12,1.50L5.12,1.50A0.75 0.75 0 0 1 5.87,2.25L5.87,21.75A0.75 0.75 0 0 1 5.12,22.50L5.12,22.50A0.75 0.75 0 0 1 4.37,21.75L4.37,2.25A0.75 0.75 0 0 1 5.12,1.50zM5.87,16.50L16.87,16.50C20.37,16.50,20.37,13.75,17.87,11.83C16.12,10.50,16.12,9.50,17.87,8.00C20.37,6.00,20.37,3.25,16.87,3.25L5.87,3.25L5.87,16.50z" android:strokeColor="@drawable/ic_settings_emergency_op_1" android:strokeLineCap="square" android:strokeLineJoin="miter" android:fillType="nonZero" />
+                </group>
+            </group>
+        </vector>
+    </item>
+</layer-list>
