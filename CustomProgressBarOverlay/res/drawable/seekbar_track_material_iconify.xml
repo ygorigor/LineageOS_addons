@@ -5,7 +5,7 @@
         <shape android:shape="rectangle">
             <corners android:radius="24.0dip" />
             <size android:height="18.0dip" />
-            <gradient android:startColor="@android:color/holo_blue_light" android:endColor="@android:color/holo_blue_dark" />
+            <gradient android:startColor="@android:color/system_accent1_600" android:endColor="@android:color/system_accent1_300" />
         </shape>
     </item>
     <item android:gravity="fill_horizontal|center" android:start="2.5dip" android:end="2.5dip">
