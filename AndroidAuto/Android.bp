@@ -12,8 +12,18 @@ android_app_import {
 }
 
 prebuilt_etc {
-    name: "privapp-permissions_com.google.android.projection.gearhead.xml",
+    name: "privapp_permissions_com.google.android.projection.gearhead",
     product_specific: true,
     sub_dir: "permissions",
-    src: "permissions/com.google.android.projection.gearhead.xml",
+    src: "permissions_com.google.android.projection.gearhead.xml",
+    filename_from_src: true,
 }
+
+prebuilt_etc {
+    name: "default-permissions_com.google.android.projection.gearhead",
+    product_specific: true,
+    sub_dir: "default-permissions",
+    src: "default-permissions_com.google.android.projection.gearhead.xml",
+    filename_from_src: true,
+}
+
