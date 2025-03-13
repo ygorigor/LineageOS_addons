@@ -1,9 +1,0 @@
-//
-// SPDX-FileCopyrightText: 2025 The Calyx Institute
-// SPDX-License-Identifier: Apache-2.0
-//
-
-runtime_resource_overlay {
-    name: "GearheadOverlay",
-    product_specific: true,
-}
