@@ -15,8 +15,9 @@ prebuilt_etc {
 }
 
 android_app_import {
-    name: "AuroraStore",
-    apk: "AuroraStore.apk",
+    name: "AuroraStorePrebuilt",
+    owner: "foss",
+    apk: "AuroraStorePrebuilt/AuroraStore.apk",
     preprocessed: true,
     presigned: true,
     dex_preopt: {
