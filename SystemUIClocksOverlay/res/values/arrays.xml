@@ -13,5 +13,6 @@
         <item>com.android.systemui.clocks.numoverlap</item>
         <item>com.android.systemui.clocks.handwritten</item>
         <item>com.android.systemui.clocks.weather</item>
+        <item>com.libremobileos.clock</item>
     </string-array>
 </resources>
